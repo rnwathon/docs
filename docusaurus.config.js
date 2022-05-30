@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'docs',
   tagline: 'Rakhmat N. Wathon Personal Documentation',
-  url: 'https://test-site.com',
-  baseUrl: '/',
+  url: 'https://rnwathon.github.io',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   organizationName: 'rnwathon',
-  projectName: 'personal-docs',
+  projectName: 'docs',
 
   i18n: {
     defaultLocale: 'en',
